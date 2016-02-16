@@ -1,0 +1,576 @@
+GHW 
+======================
+
+Jquery MultiSelect:
+___________________
+
+http://loudev.com/
+http://www.openfaces.org/demo/twolistselection/TwoListSelection.jsf
+http://jsfiddle.net/eUDRV/3/
+http://www.jqueryrain.com/?qmi2lw8H
+http://www.jqueryscript.net/demo/Two-side-Multi-Select-Plugin-with-jQuery-multiselect-js/
+
+
+
+
+
+Ubuntu Servers : 
+
+For DevChat1 (10.1.10.204) user name is devuser and password is nT8LIBgfv9
+For DevChat2 (10.1.10.205) user name is devuser and password is haSHrxGio7
+
+MARIA DB :
+----------
+DevChat1 : username - devuserdb 
+           password - 6hgw1pwn
+DevChat2 : username - devuserdb
+           password - 4hehcrbv
+
+Active Directory credentials:-
+Ram Kumar’s : rkumar and password is G94vtacsg
+Ramkumar Karuppiah’s : rkaruppiah and password is 1E2aoeoym
+
+
+4) DevChat3 and DevChat4
+5) vpn.greathealthworks.com  
+
+Submit Form:
+https://app.smartsheet.com/b/form?EQBCT=d5bca3a1f5fe4de58b7660871ab2c975
+
+Log:
+https://app.smartsheet.com/b/publish?EQBCT=72464d7e6a8c40b192a3745c93c93084
+
+
+
+Scrum Status Submit Form:
+
+https://app.smartsheet.com/b/form?EQBCT=372f7cf0769d4833a2a91aec005889fb
+
+Scrum Status Log:
+
+https://app.smartsheet.com/b/publish?EQBCT=427d71fd8a564c1f83803f2197838382 
+
+https://greathealthworks.atlassian.net/login
+==========================================================================================================================
+
+
+
+http://tutorialzine.com/2014/03/nodejs-private-webchat/
+
+chmod 755 -R /etc
+
+
+kandhavel
+Welcome@12
+
+
+TASKKILL /F /IM httpd.exe /T
+
+Blackman_Timesheet:
+_____________________
+
+https://onedrive.live.com/redir.aspx?cid=6afe48bc593bb1a2&resid=6afe48bc593bb1a2!5140&parId=6afe48bc593bb1a2!3814&authkey=!AgG-t5EeBDEgMnA&Bpub=SDX.SkyDrive&Bsrc=Share&ref=button
+
+
+
+http://123.63.202.250/limesurvey/index.php/admin
+admin
+admin123
+
+SCRUM:
+------
+
+https://app.smartsheet.com/b/form?EQBCT=2d5c3ecdfb0e402bb4f5078152158c17
+
+http://publish.smartsheet.com/785afee5843548e1adcb1b7b12b306f5
+
+https://www.scrumwise.com/scrum/
+
+=================================================================================
+Credentails:-
+==============
+LJ:
+---
+DB Name :LJArt_designstar_dev
+ServerName :24.104.56.163
+UserName : larson
+Password : larson
+
+SHARE\test
+Tychons@123
+
+VPN:
+---
+24.104.130.134
+Px3BDV2hWa8svsSgk
+arul
+Tychons16
+
+Server:
+------
+24.104.56.187 - dev
+24.104.56.186  -test
+24.104.56.185  - live
+Server IP : 24.104.56.187
+
+24.104.56.163 - live DB
+24.104.56.189 - Dev DB
+LJArt_designstar_dev
+
+User Logins:
+-------------
+LARSONJUHLNT110\tychons                oooooooooooooooooooooo-RemoteLogin
+L@rson15
+
+LARSONJUHL\rams                        oooooooooooooooooooooo-RemoteLogin
+L@rson0116
+
+http://devfsljv2.larsonjuhl.com//AspxPages/index.aspx?Lang=ENG&Country=USA&StoreID=8
+
+
+Username : bmanguno@larsonjuhl.com
+Password : designstar
+
+select COUNT(Imageid) as CountNo , Imageid from LJ_DesignImages_Details group by Imageid order by CountNo DESC
+
+select * from LJ_DesignImages where Imageid='483'
+
+------------------------------------------------------------------------------
+
+www.facebook.com
+--------------
+
+Key: 881744755234881
+ 
+
+Secret: e5089dea92535309bca31cc0647c5c42
+
+
+https://developers.facebook.com/tools/explorer/145634995501895/
+me?fields=albums.limit(10000){id,name,photos.limit(10000){id,picture}}
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+LinkedIn Developer Details:
+----------------------------
+
+Login id : ramkumar.k@tychons.com
+Password : ramkumar@1419
+
+Client ID or App ID:	77qbon2jcz0j32
+Client Secret:	TLHaVEWRedLcBVFs 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Instagram developer Details
+----------------------------
+
+CLIENT ID	--  0883b3064b79477589db8226f0cbd1cf
+CLIENT SECRET	--  8b77434e577f425abc0ec1f6441d115f
+
+http://dmolsen.com/2013/04/05/generating-access-tokens-for-instagram/
+
+https://api.instagram.com/oauth/authorize/?client_id=0883b3064b79477589db8226f0cbd1cf&redirect_uri=http://localhost:51369/SocialMediaPlugins/Instagram/index.html&response_type=code
+
+https://api.instagram.com/oauth/authorize/?client_id=0883b3064b79477589db8226f0cbd1cf&redirect_uri=http://localhost:51369/SocialMediaPlugins/Instagram/index.html&response_type=code
+http://jelled.com/instagram/access-token
+
+
+https://api.instagram.com/v1/users/{USERID}/media/recent  -- urL FOR GETTING IMAGES
+https://api.instagram.com/v1/users/self
+
+http://www.developerdrive.com/2014/02/how-to-use-the-instagram-api/
+
+Login id : tychonsram
+Password : ramkumar123
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Google +:
+------------
+https://developers.google.com/+/web/api/javascript#loading_the_javascript_api
+https://developers.google.com/identity/sign-in/web/reference
+https://developers.google.com/apps-script/articles/picasa_google_apis
+https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol#ListAlbumPhotos
+
+https://developers.google.com/picasa-web/docs/2.0/developers_guide_protocol#Albums
+
+API-KEY : AIzaSyCJO9LWQQc-XmS2emtThpxF2eRw1zgIT58
+
+Client ID : 111279551113-ophpcghski7ib7a61jrbl6dmomuct7cc.apps.googleusercontent.com
+
+screct Key : 9yOGsQMto0RaAB-_6c4CX-8G
+
+
+http://www.freeformatter.com/xml-formatter.html#ad-output
+https://picasaweb.google.com/data/feed/api/user/107756326609293745753?kind=photo
+
+Project ID
+larsonjuhl-test
+
+Project number
+593048716925
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+www.flickr.com
+--------------
+
+http://www.codeproject.com/Tips/986801/Downloading-User-Images-from-Flickr-in-Csharp
+
+Login id : tychonsram@yahoo.com
+Password : Tychons@123
+
+Your user ID:
+136349950@N02
+
+Key:   7f7aba34cb45de11492e6ea8a0540638
+
+Secret: 1efbae5d53487cdd
+
+
+1efbae5d53487cddapi_key7f7aba34cb45de11492e6ea8a0540638permswrite  - My String
+
+000005fab4534d05api_key9a0554259914a86fb9e7eb014e4e5d52permswrite - Model String
+
+
+1efbae5d53487cdd+'api_key'+7f7aba34cb45de11492e6ea8a0540638+'perms'+ write
+
+
+http://flickr.com/services/auth/?api_key=7f7aba34cb45de11492e6ea8a0540638&perms=read&api_sig=232597a4d1bc1ab66493980bbc62ed05
+http://www.flickr.com/services/auth/?api_key=9a0554259914a86fb9e7eb014e4e5d52&perms=write&api_sig=a02506b31c1cd46c2e0b6380fb94eb3d
+
+TestMD5:232597a4d1bc1ab66493980bbc62ed05
+
+
+https://www.flickr.com/services/api/explore/flickr.test.login   -  user id
+
+https://www.flickr.com/services/api/flickr.galleries.getList.html
+
+http://gabrieleromanato.name/a-flickr-gallery-with-plain-javascript/
+
+http://kylerush.net/blog/tutorial-flickr-api-javascript-jquery-ajax-json-build-detailed-photo-wall/
+
+http://mashupguide.net/1.0/html/ch08s07.xhtml
+
+https://www.flickr.com/services/api/auth.howto.web.html
+https://www.flickr.com/services/api/auth.oauth.html#request_token
+https://www.flickr.com/services/apps/by/136349950@N02
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TWITTER :
+=========
+https://apps.twitter.com/app/8930711/settings
+
+https://dev.twitter.com/rest/tools/console
+
+http://codepen.io/aamirafridi/pen/cEAsz
+
+Install-Package twitterizer -Version 2.4.2
+
+Consumer Key (API Key)	        :   Np7NF7eHQIYywnn5vbEzo039H
+Consumer Secret (API Secret)	:   5NDy7ZQ6agbXS1Utdq3Cd6i0qqB01FHZdsIiUY3ofiyWv9UtpN
+Access Level                    :   Read,write and direct messages
+Owner	                        :  RamK_14
+Owner ID	                : 190239761
+
+Access Token	                : 190239761-srvhMwP584CYWZlYYdadFzrikYwaHEYUlKTEpoIF
+Access Token Secret	        : JQAUPyds9kXQ7fzFVWceRn6VAtSxofUa7cK9CCgWDetE3
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+=============================================
+
+Pinterest :-
+-------------
+Login id : ramkumar.k@tychons.com
+Password : ramkumar123
+
+File mapped in server IIS and shared the folder \\WIN-2012\SocialMediaPlugins.
+Please find the intranet URL below for both http and https.
+
+https://192.168.1.3/Pinterest/
+
+
+App ID : 4792207838973788948
+App Secret : 7a1e8f674627ed577ab2f383ccf0959fa60551d9fd6e05ac7f44dfddcd67d238
+
+
+https://api.pinterest.com/v1/me/?access_token=ATcDi2ltTFavL1UyVeDB6ybNs3WZFAgbkmqIm3FCgVpGq-AWDAAAAAA
+https://developers.pinterest.com/docs/sdks/js/
+https://developers.pinterest.com/docs/api/access_token/
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Blackman Mobile Application
+---------------------------
+
+Google Account :
+
+blackmanmcommerce@gmail.com
+Blackman@2015
+
+Kumari@20151
+
+==================
+
+Internal :  http://10.200.4.110:8080/webordering/index.html
+External :  http://104.247.33.219:8080/webordering/index.html
+
+http://192.168.1.3:8585/WPCContactsUI/index.html
+============================================
+
+server ip: 10.200.4.31
+username: bpscronjob01\administrator
+password: ibm90219X2
+
+
+server ip:10.200.4.110
+username: bpscronjob01\administrator
+password: ibm90219X2
+
+Internal(10.200.4.110) 
+External(192.168.40.219)
+
+==========================================
+
+server ip: 192.168.40.219
+username: TychonsAdmin
+password: Tychons@123#
+
+server ip: 192.168.40.218
+username: bpsAdmin
+password: 1bPotter*
+
+===========================================
+
+bpscronjob01.blackmanps.us.com
+
+\\win-2012\WPC
+\\Win-2012\wcf - UI
+
+============================================
+APPLE ID:
+
+lak@tychons.com
+Tychons123
+
+
+
+Blackman Server:
+--------------
+
+server ip: 192.168.68.230
+username: TychonsAdmin
+password: Tychons@123#
+
+
+OurItemNumber":"23027":"PRODUCTIMAGE":"OATEYSCS"
+OurItemNumber":"23033":"PRODUCTIMAGE":"OATEYSCS"
+OurItemNumber":"12464":"PRODUCTIMAGE":"Worthington Cylinders"
+OurItemNumber":"67418":"PRODUCTIMAGE":"Worthington Cylinders"
+
+
+Blackman DB Credentials:
+------------------------
+
+host: 10.150.1.70
+username : tychons
+pwd: tychons1
+default schema: TYCHLIB
+
+
+Blackman VPN:
+---- 	
+
+http://vpn.blackman.com
+tychons4
+tychons123$
+
+
+select  A.*,B.*,C.*,D.*,E.*,F.*,G.*,H.*,I.*,J.*,K.* from Items A
+Inner join Manufacturers B on A.[UNI - ID]=B.[UNI - ID]
+Inner join MarketingCopy C on A.[UNI - ID]=C.[UNI - ID]
+Inner join Taxonomy D on A.[UNI - ID]=D.[UNI - ID]
+Inner join FeatureBullets E on A.[UNI - ID]=E.[UNI - ID]
+Inner join Dimensions F on A.[UNI - ID]=F.[UNI - ID]
+Inner join Attributes G on A.[UNI - ID]=G.[UNI - ID]
+Inner join Attachments H on A.[UNI - ID]=H.[UNI - ID]
+Inner join Images I on A.[UNI - ID]=I.[UNI - ID]
+Inner join ItemPrices J on A.Item# = J.ITEM#
+inner join BulkOrderDetails K on A.Item# = K.Itemno
+
+
+================================================================================
+Blackman Login:
+--------------
+AHAVA -J6U5R6A5- 4753    	  
+ERIC - C3H9R3I9 -15116
+JOHN - G0A5B0R9
+KLEVINE - KL2189
+MARC - FINS
+
+=================================================================
+Dynamics CRM:
+--------------
+
+https://winterparkconstruction.crm.dynamics.com
+
+infodeskadmin@wpc.com
+
+wpcABC01@#
+
+Tri-City Electrical Contractors-Altamonte Springs
+
+=============================================================
+
+http://crmcontacts.wpc.com/crmcontacts
+
+Client’s Remote Machine Credentials (Service hosted)
+----------------------------------------------------
+Computer name: wpcazvmib001.cloudapp.net:51010
+Username: WPCinfobot@wpc.com
+Password: WPCmis357IB
+
+ 
+Client machine Credentials (Prolog Database) (1)
+-------------------------------------------- 
+Machine: termserv2.wpc.com
+username: wpctest1@wpc.com
+pwd: wpctest1
+
+
+Take remote from termserver to access database.(2)
+------------------------------------------------------------
+
+Machine: wpcvmw7autobot1
+Username:wpc/wpctest1
+Pwd:wpctest1
+
+===========================================================
+
+SSRS -WPC:
+-----------
+Computer name: wpcazvmib001.cloudapp.net:51010
+Username: WPCinfobot@wpc.com
+Password WPCmis357IB
+
+=========================================================================
+Proprint:
+---------
+System   : 54.206.31.113
+Username : Administrator
+Password : P;5HVfmzt*T
+
+
+54.206.31.113/proprint
+=========================================================================
+
+PROPRINT CREDENTIALS:
+---------------------
+Username: shankar@i-grafix.com    
+Password: sad193175
+
+Username: shankar@proprint.com.au
+Password: sad193175
+=========================================================================
+Microkey:(TECH APP)
+-------------------
+Username:Hector
+Passwrd:Hector
+
+Webaddress:https://microkeywt.svctek.com/mobileWT
+
+http://localhost:57066/Blackman/index.html#
+
+chrome.exe --disable-web-security
+=========================================================================
+FTP for mamatrains.com
+----------------------
+HOST: elite1158.inmotionhosting.com
+USER: mamatrai
+PWD: GM_0924mama!
+=========================================================================				
+
+SBIN0014464
+RAMKUMAR K
+HDFC Acc : 50100037125814
+Branch : PERUNGUDI - CHENNAI
+
+
+Raj Shree:
+Account Number : 50100105643434
+62619469
+
+
+File mapped in server IIS and shared the folder \\WIN-2012\SocialMediaPlugins.
+Please find the intranet URL below for both http and https.
+https://192.168.1.3
+http://192.168.1.3:90
+
+
+
+
+http://www.textfixer.com/html/compress-html-compression.php
+
+http://www.codeproject.com/Articles/71346/Connecting-to-MySQL-Database-using-C-and-NET
+http://devdesignstar.larsonjuhl.com/
+http://www.aspsnippets.com/Articles/Send-and-receive-JavaScript-Array-to-Web-Service-Web-Method-using-ASP.Net-AJAX.aspx
+http://www.dotnetcurry.com/showarticle.aspx?ID=317
+http://www.codeproject.com/Tips/757991/File-Upload-using-WCF-REST-API-and-JavaScript
+http://downloader-apk.com/
+
+
+https://unilogcorp.box.com/s/xsmeupp2mybm2wnxyf9m
+
+
+
+
+select Name from LJArt_Dev.dbo.WO_Fr_Master where AccountNumber = ''   
+http://www.aspnettutorials.com/tutorials/controls/limit-upload-xtensions-asp4-cs/
+
+
+http://www.markandey.com/2011/01/compress-and-decompress-in-cnet.html
+
+
+4893771301617690
+01/2018
+419
+
+Ph pwd:1301
+
+
+
+USE [LJArt_designstar]
+select * from LJ_DesignImages 
+select * from LJ_DesignImages_Details
+
+select * from LJ_SuperJudges
+select * from [LJ_RoleMaster]
+select * from [LJ_JudgeUsers]
+select * from LJ_Judgestoppicks
+
+--truncate table LJ_Judgestoppicks
+--truncate table LJ_SuperJudges
+
+
+
+
+select * from LJ_DesignImages where AccountNo='50'
+
+--delete from LJ_DesignImages where AccountNo='50'
+
+select * from LJ_DesignImages_Details where Imageid in (select Imageid from LJ_DesignImages where AccountNo='50')
+
+--Delete from LJ_DesignImages_Details where Imageid in (select Imageid from LJ_DesignImages where AccountNo='50')
+
+  
+Raj Shree:
+Account Number : 50100105643434
+62619469
+
+100182026103 EPF  number
+
+33548210 - Geetha
